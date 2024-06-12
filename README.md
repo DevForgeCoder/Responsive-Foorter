@@ -1,1 +1,1 @@
-# Responsive-Foorter
+# Responsive-Footer
